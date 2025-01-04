@@ -1,0 +1,17 @@
+{
+  "name": "hide-plus-minus-buttons",
+  "title": "Hide Plus-Minus Buttons",
+  "description": "Hides the quantity adjustment buttons for players but not for the DM.",
+  "version": "1.0.0",
+  "author": "Master Wolf",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "scripts": ["scripts/hide-buttons.js"],
+  "styles": [],
+  "esmodules": [],
+  "languages": [],
+  "packs": [],
+  "dependencies": [],
+  "manifest": "module.json",
+  "readme": "README.md"
+}
